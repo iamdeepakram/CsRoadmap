@@ -4,6 +4,8 @@ This Repository document the self-taught computer science path. This contains li
 You all will see random emoji just for fun.
 :smiley:	
 :rocket:
+
+
 Name | Resources
 ---- | ------- 
 Intro to CS  | [MIT Introduction to computer science with python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/index.htm)
