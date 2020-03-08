@@ -11,10 +11,10 @@ This Repository document the self-taught computer science path. This contains li
 
 ### **| Intoduction to computer science** 
 
-| Lectures  | Details |
-| ---- | ------- |
-| - [x] 1   | [Data type, Operators, Variables](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1) |
-| - [x] 2   | [Operators, Operands, Branching, Conditional, Loops](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1) |
+ Lectures  | Details |
+ ---- | ------- |
+- [ ] 1   | [Data type, Operators, Variables](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1) |
+- [x] 2   | [Operators, Operands, Branching, Conditional, Loops](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1) |
 
 
 ### **| Practicing Autotmate the Boring stuff** 
