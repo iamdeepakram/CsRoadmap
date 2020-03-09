@@ -17,7 +17,10 @@ Hey watch out for me - :dog:
 Lectures  | Details 
 ---- | ------- 
 - [x] 1 | [Data type, Operators, Variables](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1) 
-- [x] 2   | [Operators, Operands, Branching, Conditional, Loops](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1) 
+- [x] 2   | [Operators, Operands, Branching, Conditional, Loops](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-2/) 
+- [x] 3   | [Common code patterns, iterative programs(for, while, if , else)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-3/)
+- [x] 4   | [Decomposition, Abstraction, intro to recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-4/)
+- [x] 5   | [Floating point numbers, successive approximation, finding roots](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-5/)
 
 Eat veggis :potato:
 
