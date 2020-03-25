@@ -25,6 +25,9 @@ Lectures  | Details
 - [x] 7 , [code](https://github.com/iamdeepakram/IntroToCs/tree/master/lec7) | [Lists, Mutability, Dictionaries, Introduction to Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-7/)
 - [x] 8 , [code]()  | [Complexity: Log, Linear, Quadratic, Exponential](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-8/)
 - [x] 9 , [code](https://github.com/iamdeepakram/IntroToCs/tree/master/lec9)  | [Binary Search, Selection sort, Bubble Sort](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-9/)
+- [x] 10 , [code]()  | [Divide and conquer methods, merge sort, exceptions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-10/)
+- [x] 11 , [code]()  | [Testing and debugging](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-11/)
+- [x] 12 , [code]()  | [debugging, knapsack problem, introduction to dynamic programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-12/)
 
 Eat veggis :potato:
 
@@ -39,6 +42,15 @@ Chapter  | Name,Colab
 
 ### **| Hacker Rank**   
 [Profile](https://www.hackerrank.com/deepaksutrakar?hr_r=1)
+
+### **| Django Status**
+Learning Django using Documentation
+
+[Intro to Django Documentation](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+
+[Polls app | Admin Interface](https://docs.djangoproject.com/en/3.0/intro/tutorial02/)
+
+[Views](https://docs.djangoproject.com/en/3.0/intro/tutorial03/)
 
 # References:
 
